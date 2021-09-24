@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "middle-finger.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
